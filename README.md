@@ -1,5 +1,7 @@
 # Trilha JS Developer - Pokedex
-
-## First STEP
-- Create the Card for using
-- Create the logic for expand the cards when show
+PROJECT Iniciate in: 27/01
+## Propose
+- Create a dinamic view status the each pokemon profile when click in yout image
+- Create a function Button in the list.
+- goback for list
+  
